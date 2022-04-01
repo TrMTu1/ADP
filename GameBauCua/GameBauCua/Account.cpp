@@ -2,7 +2,7 @@
 
 Account::Account()
 {
-    
+    //contru k ds
 }
 
 Account::Account(string id, string userName, string pass, int money)
